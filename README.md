@@ -15,7 +15,6 @@
   3. 각종 버그 수정
   
 ![슬라이드1](https://user-images.githubusercontent.com/59834382/229013765-7395c64b-6bae-48a6-b2d8-27437c0b1230.JPG)
-![슬라이드2](https://user-images.githubusercontent.com/59834382/229013770-e5c45349-ba05-4d54-ac1f-78586eb05bd5.JPG)
 ![발표 최종 피피티_img](https://user-images.githubusercontent.com/59834382/229015497-48e72268-6cc6-4f6c-b0a6-2f861f9f84a2.jpg)
 ![슬라이드7](https://user-images.githubusercontent.com/59834382/229013782-26932921-dbe5-44bd-a600-5e4587863ce0.JPG)
 ![슬라이드8](https://user-images.githubusercontent.com/59834382/229013784-0bea380f-5154-4457-b486-ac551d07c359.JPG)
