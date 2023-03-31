@@ -16,10 +16,7 @@
   
 ![슬라이드1](https://user-images.githubusercontent.com/59834382/229013765-7395c64b-6bae-48a6-b2d8-27437c0b1230.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/59834382/229013770-e5c45349-ba05-4d54-ac1f-78586eb05bd5.JPG)
-![슬라이드3](https://user-images.githubusercontent.com/59834382/229013774-776e728f-dd98-4d4b-a100-66ff3bf1dc2b.JPG)
-![슬라이드4](https://user-images.githubusercontent.com/59834382/229013779-6ac7d748-3809-4715-a82b-8e30b35e3868.JPG)
-![슬라이드5](https://user-images.githubusercontent.com/59834382/229013780-ec9be716-3f45-4548-bb94-5fe69c3a173c.JPG)
-![슬라이드6](https://user-images.githubusercontent.com/59834382/229013781-978a9d72-d493-43f8-bb72-eb2dcd535394.JPG)
+![발표 최종 피피티_img](https://user-images.githubusercontent.com/59834382/229015497-48e72268-6cc6-4f6c-b0a6-2f861f9f84a2.jpg)
 ![슬라이드7](https://user-images.githubusercontent.com/59834382/229013782-26932921-dbe5-44bd-a600-5e4587863ce0.JPG)
 ![슬라이드8](https://user-images.githubusercontent.com/59834382/229013784-0bea380f-5154-4457-b486-ac551d07c359.JPG)
 ![슬라이드9](https://user-images.githubusercontent.com/59834382/229013790-d5e0f01d-6b3d-4521-9d62-e38931b9887b.JPG)
